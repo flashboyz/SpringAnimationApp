@@ -1,0 +1,42 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "99535446756f8e8478ffe35840138c315c43219caa80ea4327c4167d5eacbda9"
+    },
+    {
+      "guid" : "99535446756f8e8478ffe35840138c31ee6588010d1fbf8d6f4dfd1ca1d1c4e8"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/konstantinprokofev/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/konstantinprokofev/Library/Developer/Xcode/DerivedData/Pods-eludtqhxrzxdaqdnjnghanjwtkkn/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/konstantinprokofev/Library/Developer/Xcode/DerivedData/Pods-eludtqhxrzxdaqdnjnghanjwtkkn/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
